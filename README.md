@@ -1,3 +1,16 @@
+# Project Author
+
+SHAKIB BADARPURA
+
+Contact me via-
+
+mail: shakibb35@gmail.com
+
+linkedIn- https://www.linkedin.com/in/shakib-badarpura-324b2919a/
+
+Phone- +91989282306
+
+
 # Effective-diagnosis-of-Breast-Cancer-using-KNN-Algorithm
 Cancer is one of the deadliest diseases in human beings. Breast cancer is considered to be 2nd most exposed cancer in the world and is now very commonly seen disease in women. The women of ages 45-59 has the highest number of chances to be affected by Breast cancer. Early prediction and diagnosis of Breast cancer can prevent its spread and can also aid in effective treatment or medication. Predicting Breast cancer can be a very arduous task as the data can be highly Non-linear and may require high level computation modelling. However, many machine learning algorithms like KNN, K-Means, Decision Trees, Neural Networks etc. have proved to be effective in predicting Breast cancer. This study shows the using of K Nearest Neighbor (KNN) and K-Means algorithm to predict whether a person is having Breast cancer or not using a machine learning model trained with different features. Thus, we inferred that we can predict the Breast Cancer with reasonable accuracy. 
 
